@@ -1,0 +1,10 @@
+1 	1021 		Banknotes and Coins 	- 	- 	6 	100
+2 	1047 		Game Time with Minutes 	- 	- 	9 	100
+3 	1837 		Preface 	- 	- 	7 	100
+4 	1973 		Star Trek 	- 	- 	7 	100
+5 	2632 		Magic and Sword 	- 	- 	8 	100
+6 	2709 		The Coins of Robbie 	- 	- 	9 	100
+7 	2760 		String Input and Output 	- 	- 	5 	100
+8 	2761 		Input and Output of Various Types 	- 	- 	6 	100
+9 	2867 		Digits 	- 	- 	5 	100
+10 	3166 		Finding Words on Main Diagonal 	- 	- 	6 	100
